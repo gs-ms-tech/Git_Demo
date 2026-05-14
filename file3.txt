@@ -1,3 +1,0 @@
-I am wrinting first line on thired file.
-
-I am commiting for feature-2
