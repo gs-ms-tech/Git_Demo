@@ -1,5 +1,0 @@
-I am writing the first line for Git.
-
-I am writing the second line...
-
-I am writing the thired line for existing file.
